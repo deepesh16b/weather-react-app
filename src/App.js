@@ -4,7 +4,7 @@ import UseEffect from "./components/hooks/UseEffect";
 // import UseReducer from "./components/hooks/UseReducer";
 // import Todo from "./components/todoReact/todo";
 // import './components/todoReact/style.css';
-import Weather from "./components/weather/weather";
+import Weather from "./components/weather/temp";
 
 const App = () => {
   return (
